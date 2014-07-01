@@ -1,0 +1,11 @@
+public void example(int n)
+{
+	if (n != 0)
+	{
+		return True;
+
+	}
+	return False;
+
+
+}
